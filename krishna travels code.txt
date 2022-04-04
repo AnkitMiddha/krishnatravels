@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>KRISHNA TRAVELS</title>
+
+
+
+    
+    <style> .background{background-image:  url("kt2.jpeg"); height: 1120px; width: 1400px;   background-repeat: no-repeat
+     ;background-position:top;object-fit: contain;
+     }
+     hr{  color: blueviolet;}
+     .of1{text-align: left; }
+     h1{ font-family:Verdana, Geneva, Tahoma, sans-serif; text-decoration: none; color: blue; text-transform: uppercase;  
+        }
+       nav a{ text-decoration: none; color: ; border-radius: 4px;  }
+       h2{ text-decoration: none; color: blueviolet; text-align: center;}
+      p { text-decoration: none; color: blueviolet; font-family: Verdana, Geneva, Tahoma, sans-serif; text-align: center;}
+    nav a:hover{ color: black}
+       nav{  text-align: center;word-spacing: 60px; overflow: hidden; font-size: 20px;}
+      section{  text-align: center; padding: 20px;} Main{background-color:lightgrey ; width: 1400px;}
+      img{  ; border-radius: 10px; width: 50%;  }
+      .a2 { float: left; margin: 15px; max-width: 500px;} .a1 { float: right; margin: 15px; max-width: 500px; padding-right: 20px; }
+
+     
+      .contact { background-color: blanchedalmond; border-radius: 4px; }
+    </style>
+</head>
+<body>
+    <nav>
+        <a  href="#">HOME</a>
+        <a href="#">TOURS</a>
+        <a href="#">ABOUTUS</a>
+        <a href="#">CONTACTS</a>
+  </nav>
+  <header><div class="background">  <h1>  </h1> </header> </div>
+  
+  
+<Main>
+    <section><h1> Offered Services </h1> </section>
+     <section class="of1">   
+        
+<img class="a2" src="https://pearlmargaret.com/wp-content/uploads/2017/08/itineraryplanning-image-1140x700.jpg" width="20%" alt="BALI"> 
+<br><br><br><br><br><br>
+<h2>Itinerary Planning </h2>
+<p> No matter the type of trip you have in mind, we have the resources
+     and expertise necessary to create the perfect trip. Make sure you book in advance.
+     Our Itinerary Planning is one of our most popular services and appointments fill up fast.</p>
+     <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img class="a1" src="ft.jpg" width="30%" alt="SINGAPORE">
+<br><br><br><br><br><br>
+<h2>Family Travel Consultation</h2>
+<p> Planning any type of travel can be overwhelming,
+     which is why you need an experienced Travel Agency. With our Family Travel Consultation
+    , you can count on us to guide you through every step of the process.</p>
+    <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<img class="a2" src="it2.jpg_fit=scale" width="30%" alt="DUBAI">
+<br><br><br><br><br><br>
+<h2> ​International Travel Guidance </h2>
+<p> Throughout many years of providing clients with International Travel Guidance,
+     we have gained the experience and expertise necessary to make booking trips as seamless as possible.
+     If you have any questions, simply reach out.
+    </p>
+</section>
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+<hr><hr>
+    <section>
+        <h1>Popular Domestic Destinations</h1></section>
+        <section>
+        <img class="a1" src="goa.jpg" width="30%" alt="GOA">
+        <br><br><br><br><br><br>
+        <h2>Goa</h2>
+        <p>International and domestic tourists visit this tiny state every year, in a large number. Tourists are attracted to its golden beaches, architecture and places of worship. It is a biodiversity hotspot and is rich in flora and fauna. </p>
+        <p>
+Goa is known for sharing harmonious relationship among its various religious communities, living peacefully for generations. Goa is regarded as one of the best states of India in terms of investment environment and infrastructure.
+            </p>
+            <br><br><br><br><br><br><br><br><br><br> 
+        <img class="a2" src="kerala.jpg" width="30%" alt="KERALA">
+        <br><br><br><br><br><br>
+        <h2>Kerala</h2>
+        <p> The amazing destination, Kerala, is blessed with its scenic beauty wrapped with green nature.
+             The 'God's Own Country' will be the best stop to be away from the hustles and bustles of your life. One who are at Kerala,
+              can never miss the magical experience of the hill stations in Kerala. The hills, 
+            covered with mist will welcome you, the cool air will surround you and the mild atmosphere 
+            will make you experience the heaven on earth.</p>
+            <br><br><br><br><br><br><br><br>
+        <img class="a1" src="UDAIPUR.jpg" width="30%" alt="UDAIPUR">
+        <br><br><br><br><br><br>
+        <h2>Udaipur</h2>
+        <p> Udaipur presents a historical spectacle which is sure to spellbind every visitor with its unequivocal architectural beauty and hypnotic cultural vibrancy. Located in the state of Rajasthan,
+             on the southern side of the majestic Aravalli hills, this city attracts travellers from all over the world.</p>
+    </section>
+   
+    
+</body>
+
+</html>
